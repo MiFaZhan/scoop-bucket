@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.0/jms-client_0.1.0_windows_amd64.zip",
+            "bin": [
+                "jms.exe"
+            ],
+            "hash": "d2470133507440ffe2002fabdf2f8218238bb0be87c836e2afbbed8de0059da6"
+        },
+        "arm64": {
+            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.0/jms-client_0.1.0_windows_arm64.zip",
+            "bin": [
+                "jms.exe"
+            ],
+            "hash": "add1ddbe3e3917d5132494ed0b1a973c8aff56479e58b2f1801489bc5cc9c221"
+        }
+    },
+    "homepage": "https://github.com/MiFaZhan/jms-client",
+    "license": "MIT",
+    "description": "JumpServer v4 bastion CLI and MCP server"
+}

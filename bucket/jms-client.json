@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.5/jms-client_0.1.5_windows_amd64.zip",
+            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.6/jms-client_0.1.6_windows_amd64.zip",
             "bin": [
                 "jms.exe"
             ],
-            "hash": "5f4246abf342f0e30c763e5c33a3bf6db3bb1eacac48479a85c614b307b9cf6c"
+            "hash": "0dd0eabf6e5e3a8b95401c2cd010342b22e5222fe7c7f9e49cf192fba37d5521"
         },
         "arm64": {
-            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.5/jms-client_0.1.5_windows_arm64.zip",
+            "url": "https://github.com/MiFaZhan/jms-client/releases/download/v0.1.6/jms-client_0.1.6_windows_arm64.zip",
             "bin": [
                 "jms.exe"
             ],
-            "hash": "1934146d3cdaef5f1e223496912f1b7011d19341810516283d402af68972473a"
+            "hash": "16280381f9bf7769c5c3ea6a4552b71346268e999b9cfefffb67366ddd2b15e8"
         }
     },
     "homepage": "https://github.com/MiFaZhan/jms-client",
